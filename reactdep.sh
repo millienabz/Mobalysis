@@ -15,7 +15,7 @@ sudo apt-get install -y nodejs
 
 #clone react app
 cd /var/www/html/
-sudo git clone https://github.com/sdg000/Mobalysis.git
+sudo git clone https://github.com/millienabz/Mobalysis.git
 cd Mobalysis/frontend
 sudo npm install
 sudo npm run build
